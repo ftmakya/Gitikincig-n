@@ -15,6 +15,7 @@ public class Day2GitGithub {
     kullaniriz.
 
     NOT: git log --oneline --> Commitlerimdeki yani versionlarimdaki durumu gösterir
+    Not:github ogrendim
      */
 
 }
